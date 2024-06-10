@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LibreriaRecuperacion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LibreriaRecuperacion.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
