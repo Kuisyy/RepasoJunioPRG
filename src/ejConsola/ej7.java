@@ -14,9 +14,9 @@ public class ej7 {
         Toolkit tk = Toolkit.getDefaultToolkit();
         Dimension dimension=tk.getScreenSize();
         int xMax = dimension.width;
-        int ymax = dimension.height;
+        int ymax = dimension.height; 
         int xMitad = xMax/2-50;
-        int yMitad = ymax/2-50; // Preguntar
+        int yMitad = ymax/2-50;
         Graphics graphics = cv.getGraphics();
         graphics.setColor(Color.RED);
         graphics.drawLine(0,0,xMax,ymax);
